@@ -1,0 +1,7 @@
+export const ADD_NODE ='ADD_NODE';
+export const EDIT_NODE ='EDIT_NODE';
+export const ADD_WORKFLOW = 'ADD_WORKFLOW';
+export const EDIT_WORKFLOW = 'EDIT_WORKFLOW';
+export const DELETE_WORKFLOW = 'DELETE_WORKFLOW';
+export const SELECTED_WORKFLOW = 'SELECTED_WORKFLOW';
+export const RE_ARRANGE_NODES = 'RE_ARRANGE_NODES';
